@@ -10,4 +10,10 @@
 
  *git log* - просмотр истории изменений
 
- 
+
+*git diff* - показывает изменения после последнего коммита
+
+*git checkout commit_number* - позволят переходить между коммитами
+
+Подробнее про Git и команды к нему: https://gbcdn.mrgcdn.ru/uploads/asset/4245110/attachment/d4eb8c232f8f2bdf4e42ba7cb49e0c50.pdf
+
